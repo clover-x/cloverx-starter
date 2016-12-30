@@ -10,5 +10,3 @@
 const yargv = require('yargs').argv;
 // 变量可选值：development, production
 process.env.NODE_ENV = (yargv.env || 'development').toLowerCase();
-// 加载配置文件
-const config = require('./config');
