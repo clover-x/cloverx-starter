@@ -12,7 +12,7 @@ const yargv = require('yargs').argv;
 // 变量可选值：development, production
 process.env.NODE_ENV = (yargv.env || 'development').toLowerCase();
 
-require('clover').start({
+require('cloverx').start({
     baseDir: __dirname,
     cloverEnv: process.env.NODE_ENV
 });

@@ -153,6 +153,3 @@ fabric.properties
 !.vscode/extensions.json
 
 # End of https://www.gitignore.io/api/osx,vim,node,webstorm,visualstudiocode
-
-### clover-struct ###
-app/config/local.js

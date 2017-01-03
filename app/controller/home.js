@@ -7,7 +7,7 @@
  *
  * 控制器示例
  */
-let clover = require('clover');
+let clover = require('cloverx');
 
 let V = clover.validator;
 let router = new clover.Router({
