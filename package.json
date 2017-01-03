@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.souche.com:f2er/clover-struct.git"
+    "url": ""
   },
-  "author": "liujianan@souche.com",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cloverx": "git+ssh://git@git.souche.com:liujianan/cloverx.git",
