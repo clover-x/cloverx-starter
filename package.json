@@ -13,6 +13,7 @@
   "author": "liujianan@souche.com",
   "license": "ISC",
   "dependencies": {
+    "cloverx": "git+ssh://git@git.souche.com:liujianan/cloverx.git",
     "lodash": "^4.17.3",
     "yargs": "^6.5.0"
   }
