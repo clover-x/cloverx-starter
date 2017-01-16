@@ -9,5 +9,6 @@
  */
 
 module.exports = {
-    'port': 7077
+    'port': 7078,
+    'searcher': 'Bing'
 };

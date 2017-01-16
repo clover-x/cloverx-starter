@@ -16,3 +16,11 @@ require('cloverx').start({
     baseDir: __dirname,
     cloverEnv: process.env.NODE_ENV
 });
+
+process.on('uncaughtException', (err) => {
+    console.error(err);
+});
+
+process.on('unhandledRejection', (err) => {
+    console.error(err);
+});
