@@ -9,7 +9,4 @@
  */
 
 module.exports = {
-    // 文档配置
-    doc: {
-    }
 };

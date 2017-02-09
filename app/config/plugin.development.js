@@ -16,7 +16,7 @@ module.exports = {
         host: '127.0.0.1:7077'
     },
     mysql: {
-        'srnhub': {
+        'yourDB': {
             database: 'srnhub',
             user: 'root',
             password: null,

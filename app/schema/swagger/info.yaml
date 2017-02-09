@@ -1,5 +1,5 @@
-version: 1.0.2,
-title: cloverx doc,
+version: 1.0.0
+title: Your App Name
 description: |
   🍀convert cloverx api definition into swagger specific format..
   ```javascript
