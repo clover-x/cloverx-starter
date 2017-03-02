@@ -1,12 +1,2 @@
-# ☘cloverx-starter
-只含基本目录结构，示例参考 [cloverx/examples](https://github.com/clover-x/cloverx/tree/master/example/app)
-
-## Usage
-安装依赖，只能使用`npm`
-```shell
-npm install
-```
-启动
-```shell
-npm run dev
-```
+# 🍀 cloverx-starter
+命令工具 [cloverx-cli](https://github.com/clover-x/cloverx-cli) 使用的模板项目，具体示例参考：[cloverx/examples](https://github.com/clover-x/cloverx/tree/master/example/app)
